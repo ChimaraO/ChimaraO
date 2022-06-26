@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChimaraO
+- 👀 I’m interested in coding proficiently
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on a Python Project
+- 📫 How to reach me, email: chimara78@gmail.com
